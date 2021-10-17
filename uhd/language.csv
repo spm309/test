@@ -1,0 +1,23 @@
+﻿KEY	Korean	English	Bahasa Indonesia
+STR_MOVTIME	이동시간	Time	Waktu
+STR_AVGSPEED	평균속도	Average speed	Kecepatan rata
+STR_TOPSPEED	최고속도	Max speed	Kecepatan maksimal
+STR_MOVDIST	이동거리	Distance	Jarak
+STR_WINDDIR	풍향	Wind direction	Arah angin
+STR_ALTITUDE	고도	Elevation	Ketinggian
+STR_CALORIE	칼로리	Calories	Kalori
+STR_GROUPCREATE	그룹 만들기	Create a group	Buat kelompok
+STR_GROUPJOIN	그룹 참가하기	Join a group	Ikut kelompok
+STR_GROUPNAMENEW	새로운 그룹	New group	Kelompok baru
+STR_GROUPNAMEMK	그룹 이름	Group name	Nama kelompok
+STR_GROUPDESC	그룹 설명(라이딩 날짜, 시간)	Description	Deskripsi
+STR_GROUPCODEINPUT	그룹코드를 입력하세요	Enter the passcode	Masukkan kode sandi
+STR_CODEPASTE	코드 붙여넣기	Paste	Tempel
+STR_MEMBERINVITE	멤버 초대하기	Invite members	Undang anggota
+STR_ENTERCODE	입장 코드	Passcode	Kode kelompok
+STR_CODESHARE	코드 공유	Share the code	Bagikan kode
+STR_RIDING_START_REC	기록시작	Start	Mulai
+STR_RIDING_EXIT_SKIN	나가기	Leave	Berakhir
+STR_RIDING_PAUSE_REC	기록일시정지	Pause	Jeda
+STR_RIDING_RESUME_REC	기록재개	Resume	Lanjut
+STR_RIDING_EXIT_REC	기록정지	Stop	Henti
